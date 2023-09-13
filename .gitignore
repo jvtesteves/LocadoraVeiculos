@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+/out
+/.idea
+/*.iml
+/bin/
+
+Teste*.*
+teste*.*
+Testes*.*
+testes*.*
+
+# Eclipse IDE
+*.classpath
+*.project
+*.settings/
